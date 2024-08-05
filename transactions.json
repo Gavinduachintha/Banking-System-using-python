@@ -1,0 +1,32 @@
+[
+    {
+        "acc_no": 9501,
+        "trans_type": "deposit",
+        "amount": 50000.0,
+        "date": null
+    },
+    {
+        "acc_no": 9501,
+        "trans_type": "deposit",
+        "amount": 1000.0,
+        "date": null
+    },
+    {
+        "acc_no": 7131,
+        "trans_type": "deposit",
+        "amount": 500.0,
+        "date": null
+    },
+    {
+        "acc_no": 9501,
+        "trans_type": "withdrawal",
+        "amount": 100.0,
+        "date": null
+    },
+    {
+        "acc_no": 8635,
+        "trans_type": "deposit",
+        "amount": 10000000.0,
+        "date": null
+    }
+]
